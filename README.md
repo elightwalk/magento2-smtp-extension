@@ -1,4 +1,3 @@
-## 🔗 https://www.elightwalk.com/magento-smtp.html
 # Magento 2 SMTP Extension
 
 Magento SMTP Extension is fully compatible with the platform size of Magento 2. The Magento SMTP module would assist you in sending emails with a high level of quality, quicker speed, and high-security authentication. 
