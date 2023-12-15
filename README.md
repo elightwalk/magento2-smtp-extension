@@ -1,1 +1,1 @@
-# magento2-smtp-extension
+# magento2-smtp-extension1
