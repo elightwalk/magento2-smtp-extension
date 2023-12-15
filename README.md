@@ -42,7 +42,7 @@ php bin/magento cache:clean
 
 Use Our Guide for Stepwise Installation: [Magento SMTP](https://www.elightwalk.com/docs/magento/smtp)
 
-### More Elightwalk Extensions on Github Marketplace 
+**More Elightwalk Extensions on Github Marketplace**
 
 ☞ [Magento Social Login](https://www.elightwalk.com/magento-social-login.html)
 
