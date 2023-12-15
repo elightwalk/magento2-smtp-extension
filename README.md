@@ -1,3 +1,4 @@
+## 🔗 https://www.elightwalk.com/magento-smtp.html
 # Magento 2 SMTP Extension
 
 Magento SMTP Extension is fully compatible with the platform size of Magento 2. The Magento SMTP module would assist you in sending emails with a high level of quality, quicker speed, and high-security authentication. 
@@ -7,7 +8,6 @@ Elightwalk's Magento SMTP Extension will also give you a log diary that archives
 Magento 2 SMTP Extension aids in the improvement of email reputation, which is essential for any email marketing strategy. This extension is guaranteed to be handy for any online store, with a friendly customisable port and host.
 
 SMTP Extension for Magento 2 makes it simple for store owners to set up an SMTP server that translates messages into codes or numbers. It has an essential port and host, simple modules, and helpful user assistance directly in the fields.
-
 
 
 ## Highlight Features
@@ -20,8 +20,6 @@ SMTP Extension for Magento 2 makes it simple for store owners to set up an SMTP 
 - The admin can test its operation by simulating email exchanges with the host. 
 
 Know More Details About the Extension: [Magento - SMTP](https://www.elightwalk.com/magento-smtp.html)
-
-
 
 
 ## Installation Guide
@@ -43,13 +41,16 @@ php bin/magento cache:clean
 
 ```
 
-### Use Our Guide for Stepwise Installation: Magento SMTP
+Use Our Guide for Stepwise Installation: [Magento SMTP](https://www.elightwalk.com/docs/magento/smtp)
 
-More Elightwalk Extensions on Github Marketplace 
+### More Elightwalk Extensions on Github Marketplace 
 
-[Magento Social Login](https://www.elightwalk.com/magento-social-login.html)
-[Magento Google Xml Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap.html)
-[Magento Category Banner](https://www.elightwalk.com/magento-category-banner.html)
-[Magento Customer Login](https://www.elightwalk.com/magento-customer-login.html)
+☞ [Magento Social Login](https://www.elightwalk.com/magento-social-login.html)
+
+☞ [Magento Google Xml Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap.html)
+
+☞ [Magento Category Banner](https://www.elightwalk.com/magento-category-banner.html)
+
+☞ [Magento Customer Login](https://www.elightwalk.com/magento-customer-login.html)
 
 
