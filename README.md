@@ -12,7 +12,7 @@ SMTP Extension for Magento 2 makes it simple for store owners to set up an SMTP 
 ## Highlight Features
 - Complete control over custom SMTP server settings like hostname, port, username, password, and more.
 - Supports many stores, allowing you to set up different email providers/accounts for each.
--Permits business owners to test emails by duplicating every email sent to consumers, including the content. 
+- Permits business owners to test emails by duplicating every email sent to consumers, including the content. 
 - The add-on allows business owners to view and fix any email problems. 
 - Owners can manage, preview, or check when the email is produced using the Debug mode. 
 - Store admin may choose a mail server from a menu with popular solutions such as Gmail, Send in Blue, Outlook, SMTP2go, Send Grid, etc.
