@@ -18,7 +18,7 @@ SMTP Extension for Magento 2 makes it simple for store owners to set up an SMTP 
 - Store admin may choose a mail server from a menu with popular solutions such as Gmail, Send in Blue, Outlook, SMTP2go, Send Grid, etc.
 - The admin can test its operation by simulating email exchanges with the host. 
 
-Know More Details About the Extension: [Magento - SMTP](https://www.elightwalk.com/magento-smtp.html)
+Know More Details About the Extension: [Magento - SMTP](https://www.elightwalk.com/magento-smtp)
 
 
 ## Installation Guide
@@ -44,12 +44,12 @@ Use Our Guide for Stepwise Installation: [Magento SMTP](https://www.elightwalk.c
 
 **More Elightwalk Extensions on Github Marketplace**
 
-☞ [Magento Social Login](https://www.elightwalk.com/magento-social-login.html)
+☞ [Magento Social Login](https://www.elightwalk.com/magento-social-login)
 
-☞ [Magento Google Xml Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap.html)
+☞ [Magento Google Xml Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap)
 
-☞ [Magento Category Banner](https://www.elightwalk.com/magento-category-banner.html)
+☞ [Magento Category Banner](https://www.elightwalk.com/magento-category-banner)
 
-☞ [Magento Customer Login](https://www.elightwalk.com/magento-customer-login.html)
+☞ [Magento Customer Login](https://www.elightwalk.com/magento-customer-login)
 
 
